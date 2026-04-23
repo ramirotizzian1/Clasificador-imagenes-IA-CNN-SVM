@@ -1,0 +1,8 @@
+tensorflow>=2.15.0
+opencv-python
+numpy
+joblib
+scikit-learn
+matplotlib
+streamlit
+pillow

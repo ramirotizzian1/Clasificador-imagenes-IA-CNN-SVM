@@ -1,0 +1,30 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+bin/
+lib/
+share/
+include/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Modelos y Datos pesados (opcional si quieres que descarguen los suyos)
+# modelo_entrenado.h5
+# Clasificador_img_app.zip
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de Streamlit
+.streamlit/
